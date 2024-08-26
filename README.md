@@ -5,10 +5,10 @@ I'm a passionate full-stack developer with over 1.5 years of experience, special
 ### Skills and Technologies
 
 - **Frontend:** Vue.js, Angular
-- **Backend:** SailsJS
-- **Database:** MongoDB
+- **Backend:** SailsJS, Spring
+- **Database:** MongoDB, MySQL
 - **Testing:** Cypress, Jest, JUnit, Mocha
-- **DevOps:** Docker, Kubernetes, GitLab CI
+- **DevOps:** Docker, Kubernetes, GitLab CI, SonarQube..
 - **Other Skills:** Architecture documentation, requirements engineering, test planning, backups
 
 ### Projects and Learning
